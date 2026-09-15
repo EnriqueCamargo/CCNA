@@ -1,4 +1,4 @@
-<img width="1118" height="446" alt="image" src="https://github.com/user-attachments/assets/5ce21046-4f5c-4270-a6b5-24f0663304d9" /># 🌐 CCNA Certification & Networking Portfolio
+# 🌐 CCNA Certification & Networking Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge&logo=cisco" alt="Status">

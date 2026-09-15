@@ -50,7 +50,7 @@ This repository is organized into modular directories aligned with the official 
 ## 📂 Repository Structure
 
 ```text
-ccna-labs/
+ccna/
 │
 ├── 01-network-fundamentals/
 │   ├── lab-01-basic-lan-ping/
